@@ -26,7 +26,7 @@ const Hero = () => {
                 </button>
 
                 <button className="secondary__btn">
-                  <Link href="#">GitHub</Link>
+                  <Link href="https://github.com/biinnhooxx">GitHub</Link>
                 </button>
               </div>
             </div>
